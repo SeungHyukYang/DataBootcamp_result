@@ -1,4 +1,4 @@
-# DataBootcamp_results
+# Analysis_results
 
 ## Neural Network 
 ### Recitified linear activation unit (ReLU) and sigmoid, Optimization
